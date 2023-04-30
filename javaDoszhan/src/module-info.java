@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author rusta
- *
- */
-module javaDoszhan {
-}
